@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @australeo
-- 👀 I’m interested in vulnerability research, primarily on Windows. At the moment I'm working on finding Hyper-V bugs.
-- 🌱 I’m currently learning C++, Windows internals, and literally anything else that comes across my feed and distracts me.
+- 👀 I’m interested in vulnerability research, primarily on Windows. 
+- 🌱 I’m currently learning Rust!
 - 📫 How to reach me: @australeo on Twitter.
 
 <!---
